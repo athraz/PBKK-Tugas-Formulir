@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    max-width: 540px;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+.card-body {
+    padding: 10px 0;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+.submit, .back {
+    display: flex;
+    max-width: 540px;
+    margin: 20px auto 30px;
+}
